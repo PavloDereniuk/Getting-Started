@@ -14,10 +14,10 @@ This approach provides a flexible, secure, and cost-effective cloud environment 
 
 This guide will help you get started with Akash Network, even if you have never worked with decentralized cloud platforms before. You will learn:
 
-✅ How to create a wallet for Akash.
-✅ How to acquire and use AKT tokens.
-✅ Akash Console settings.
-✅ How to deploy your first application on Akash.
+* How to create a wallet for Akash.
+* How to acquire and use AKT tokens.
+* Akash Console settings.
+* How to deploy your first application on Akash.
 
 ### Who Is This Guide For?
 This guide is ideal for:
