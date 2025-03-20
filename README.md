@@ -39,7 +39,7 @@ This guide will help you get started with Akash Network, even if you have never 
 ✅ How to set up the Akash Console.  
 ✅ How to deploy your first application on Akash.  
 
-## Who Is This Guide For?
+### Who Is This Guide For?
 
 This guide is ideal for:  
 
@@ -48,8 +48,6 @@ This guide is ideal for:
 - Anyone interested in Web3 and blockchain technologies.  
 
 Ready to get started? 🚀 Let's create your first wallet!
-
-
 
 
 ---
@@ -342,3 +340,6 @@ Your application is now successfully deployed on Akash Network! 🚀
 
 
 You’ve now learned how to start your journey with **Akash Network**. Stay tuned for the next lessons, where we’ll dive deeper into the platform’s capabilities! 🚀  
+=======
+In the next step, we will show you how to acquire AKT tokens to start deploying applications. 🚀
+>>>>>>> 8f03a062e8c984d97f5c4d0dec05e78bdaa4fcb2
