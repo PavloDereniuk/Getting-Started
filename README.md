@@ -192,7 +192,7 @@ One of the simplest ways to obtain AKT is by purchasing it on a centralized exch
 
 
 
-### **Buying AKT on a Decentralized Exchange (Osmosis DEX)**  
+## **Buying AKT on a Decentralized Exchange (Osmosis DEX)**  
 
 For those who prefer a **decentralized** method, AKT can be purchased on **[Osmosis DEX](https://app.osmosis.zone/)**.  
 
@@ -340,6 +340,4 @@ Your application is now successfully deployed on Akash Network! 🚀
 
 
 You’ve now learned how to start your journey with **Akash Network**. Stay tuned for the next lessons, where we’ll dive deeper into the platform’s capabilities! 🚀  
-=======
 In the next step, we will show you how to acquire AKT tokens to start deploying applications. 🚀
->>>>>>> 8f03a062e8c984d97f5c4d0dec05e78bdaa4fcb2
